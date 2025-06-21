@@ -19,3 +19,15 @@ the tag <td></td>
             <td>5375.911</td>
         </tr>
     </table>
+
+## What I Learned
+- CSS is used to create borders and apply formating
+- To create a solid black border use border:1px solid black;
+- To collapse the boarder so that we don't see double lines, we use  border-collapse: collapse;
+
+## Example
+```css
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
