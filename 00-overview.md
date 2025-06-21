@@ -6,6 +6,8 @@ the tag <td></td>
 - The tag `<table></table>`  is used to create a table within the webpage
 - The tag `<tr>` is used to create a row
 - The tag `<td>` creates cells within the row
+- The tag `<th>` creates headings
+- The tag `Caption` creates a text above the Table,  like a table headings
 
 ## Example
 ```html
